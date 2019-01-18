@@ -1,5 +1,5 @@
 # keylogger
-simple keylogger in python to identify key presses.
+Simple keylogger in python to identify key presses.
 
 ### Library used: pynput
 
